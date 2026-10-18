@@ -1,3 +1,4 @@
+<img width="908" height="325" alt="صورة مشروع الشبكات " src="https://github.com/user-attachments/assets/b0f77279-b493-47c2-8398-2ce0d17fd0cb" />
 
 
 # Taibah University Multi-Branch Network Simulation
